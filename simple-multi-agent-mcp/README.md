@@ -97,3 +97,7 @@ simple-multi-agent-mcp/
     ├── __init__.py
     └── helpers.py      # Helper functions
 ```
+
+# Test
+![alt text](./img/test1.png)
+![alt text](./img/test2.png)
