@@ -1,0 +1,14 @@
+asyncio
+python-dotenv
+pydantic>=2.0.0
+typing-extensions
+httpx
+fastapi
+uvicorn
+azure-identity
+azure-ai-projects
+azure-ai-inference
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+azure-monitor-opentelemetry
