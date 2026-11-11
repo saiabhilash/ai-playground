@@ -330,9 +330,6 @@ conversations, not identical-probe mitigation measurements.
 
 ## Article and sources
 
-See [the LinkedIn article draft](docs/linkedin-article.md).
-Publish only measured results and attach the corresponding report.
-
 - [Microsoft PyRIT repository](https://github.com/microsoft/PyRIT)
 - [Pinned release](https://github.com/microsoft/PyRIT/tree/v1.1.0)
 - [Single-turn examples for this release](https://github.com/microsoft/PyRIT/blob/v1.1.0/doc/code/executor/1_single_turn.py)
