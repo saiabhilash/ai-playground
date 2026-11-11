@@ -1,0 +1,6 @@
+memory_db_type: sqlite
+env_files: []
+initialization_scripts: []
+initializers: []
+allow_custom_initializers: false
+silent: true
